@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Theresa Franklin - Curriculum Vitae
-permalink: /cv/
+permalink: /Systems/
 ---
 ## Curriculum Vitae
 
