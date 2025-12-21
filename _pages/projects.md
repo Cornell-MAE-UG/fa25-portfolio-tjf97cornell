@@ -4,14 +4,15 @@ title: Theresa Franklin - Fluid Dissection
 permalink: /Fluids/
 ---
 
-## Fluids
+## Group Yoyo Fluid Mechanical Dissection
 
 <center>
   <iframe
     width="560"
     height="315"
     src="https://www.youtube.com/embed/sJ50fItfoO8"
-    title="Fluids Video"
+    title="
+Group Yoyo Fluid Mechanical Dissection"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
