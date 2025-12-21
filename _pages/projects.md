@@ -1,17 +1,10 @@
---- layout: default 
-title: Theresa Franklin - Portfolio 
-permalink: /Fluids/ 
---- 
+---
+layout: default
+title: Theresa Franklin - Curriculum Vitae
+permalink: /Fluids/
+---
+## Fluids
+[Download my Groupwork ]({{ "/assets/MAE3260_final_groupwork_report_template (1).pdf" | relative_url }}) yay. My contributions are primarily matlab based.
 
-<div class="gallery-container"> 
-<div class="project-gallery"> 
-  {% for project in site.projects %} 
-    <div class="gallery-item"> 
-      <a href="{{ project.url | relative_url }}">
-        <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" /> 
-        <p>{{ project.title}}</p> 
-      </a> 
-    </div>
-  {% endfor %} 
-</div>
-</div>
+
+---
