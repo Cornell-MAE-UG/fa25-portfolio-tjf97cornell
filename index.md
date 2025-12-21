@@ -11,5 +11,5 @@ title: Theresa Franklin
  
 My name is {{ site.name }}, and I am a mechanical engineer.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/Systems/" | relative_url }}">Systems</a>.
+Take a look at <a href="{{ "/Fluids/" | relative_url }}">my projects</a> and <a href="{{ "/Systems/" | relative_url }}">Fluids</a>.
 

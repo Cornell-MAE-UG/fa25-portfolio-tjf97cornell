@@ -1,6 +1,6 @@
 --- layout: default 
 title: Theresa Franklin - Portfolio 
-permalink: /projects/ 
+permalink: /Fluids/ 
 --- 
 
 <div class="gallery-container"> 
