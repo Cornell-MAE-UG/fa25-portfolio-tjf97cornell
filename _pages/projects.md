@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Theresa Franklin - Fluid Dissection
-permalink: /Fluids/
+permalink: /Mechatronics/
 ---
 
 ## Group Yoyo Fluid Mechanical Dissection
 
-<center>
+<!-- <center>
   <iframe
     width="560"
     height="315"
@@ -17,8 +17,6 @@ Group Yoyo Fluid Mechanical Dissection"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
-</center>
+</center> -->
 
-For our 3230 fluid mechanical dissection, we dissected a fluids-based bike trainer. It provides resistance to enable stationary bike training, mimicking the physical resistance of biking outdoors. We did an in-depth analysis of the governing fluid concepts that defined the system, where my individual responsibility was the technical drawings and video editing. All members contributed to script writing as well.
-
-If you are having trouble viewing the embedded video, the video link is here: https://www.youtube.com/watch?v=sJ50fItfoO8
+For the 3780 Mechatronics competition, my group decided to generally contribute to all aspects of the design: from the brainstorming phase to the design's completion, we were all involved and familiar with all aspects of its design. That being said, my group was multidiciplanary- one mechanical engineer, one biomedical engineer and one applied energy systems engineer. As a result, I was primarily incharge of the mechanical design and related logic. This included the design and operation of the moving arm, the design of the extended wheels and the logic of the robot's algorithm. 
