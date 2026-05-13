@@ -4,7 +4,7 @@ title: Theresa Franklin - Fluid Dissection
 permalink: /Mechatronics/
 ---
 
-## Group Yoyo Fluid Mechanical Dissection
+## 3780 Mechatronics Competition
 
 <!-- <center>
   <iframe
