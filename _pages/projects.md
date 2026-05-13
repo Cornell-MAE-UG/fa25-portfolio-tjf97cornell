@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Theresa Franklin - Fluid Dissection
+title: Theresa Franklin - Mechatronics Competition
 permalink: /Mechatronics/
 ---
 
