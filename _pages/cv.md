@@ -12,5 +12,4 @@ profile as a function of x coordinate. One of the most important design aspects 
 The problem set’s relation to a highly applicable mechanical design made it particularly significant. While oftentimes, problem sets can feel separated from real world applications this course has repeatedly highlighted real use cases. This makes the problem sets feel particularly exciting and important. While this has been consistent throughout the course, having a question so closely related to my design was very motivating and exciting. Based on what we learned in class, I then went through and compared the calculation outputs against the physical outputs of my design on the car. While the heat transfer concepts are not 1 to 1, it was interesting to compare the real world with the concepts from class.
 
 
-
 ---
